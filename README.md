@@ -1,2 +1,3 @@
 # mario_vs_wario
-CNN classifying pictures from Mario/Wario GameBoy games
+Image classification problem with screenshots from two GameBoy games.
+
